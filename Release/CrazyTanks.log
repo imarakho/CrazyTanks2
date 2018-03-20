@@ -1,0 +1,12 @@
+﻿  CrazyTanks.cpp
+CrazyTanks.cpp(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+CrazyTanks.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+  PlayerClass.cpp
+PlayerClass.cpp(67): warning C4101: tmp: неиспользованная локальная переменная
+  Создание кода
+  2 of 101 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CrazyTanks.vcxproj -> D:\CrazyTanks\Release\CrazyTanks.exe
+  CrazyTanks.vcxproj -> D:\CrazyTanks\Release\CrazyTanks.pdb (Full PDB)
